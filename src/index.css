@@ -1,0 +1,35 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+nav{
+  height: 50px;
+  background-color: rgb(241, 246, 246);
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  margin: 0;
+}
+
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  text-decoration: none;
+  margin-right: 15px;
+  font-size: 20px;
+}
+
+header{
+  background-color: #13131f;
+  color: #fff;
+  padding: 10px;
+  margin-top: 20px;
+}

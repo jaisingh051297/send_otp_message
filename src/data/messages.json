@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "contact": "John Doe",
+      "timestamp": "2023-06-01T12:34:56Z",
+      "otp": "123456"
+    },
+    {
+      "id": 2,
+      "contact": "Jane Smith",
+      "timestamp": "2023-06-01T10:20:30Z",
+      "otp": "654321"
+    }
+  ]
+  
